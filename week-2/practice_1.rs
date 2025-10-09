@@ -1,4 +1,4 @@
-fn mainn(){
+fn main(){
 	println!("Welcome to COS 101!");
 	println!("The cousre learnin0g outcome is as follows!");
 	println!("1. Distinguish between computer and computer programming,/n
@@ -7,3 +7,4 @@ fn mainn(){
 			4. Conversant with applications of computer science,/n
 			5. Navigate the career prospects in computer science,/n
 			6. Conversant with computer programming concepts." );
+}
